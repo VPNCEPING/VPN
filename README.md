@@ -3,7 +3,8 @@
 > 面向新手 / 留学生 / 研究生：少踩坑，快速搞懂「VPN、机场/梯子、代理协议」的区别，并找到相对稳定的方案（含避坑思路）。
 
 ---
-![Uploading 1.png…]()
+<img width="1400" height="638" alt="1" src="https://github.com/user-attachments/assets/20d7c53a-64f6-4bb6-a02c-14c2f07af2a4" />
+
 
 ## 目录
 - [写在前面：为什么写这篇](#写在前面为什么写这篇)
